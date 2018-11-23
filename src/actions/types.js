@@ -1,0 +1,1 @@
+export const UPDATE_VOTE = 'UPDATE_VOTE';
