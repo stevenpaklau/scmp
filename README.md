@@ -1,5 +1,20 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+## NOTES BY AUTHOR
+
+- Overall was a fun and challenging experience, but did not have enough time. You can tell in what was incomplete and some sloppiness in my code. The last hour was literally me stressing out hahaha. 
+- I was a bit ambitious to incorporate Redux in the project and thus cut my time down significantly. 
+- Therefore I did not have the chance to do much of the css and any of the unit testing.
+- Also did not have enough time to store the results and re-fetch them from a database.
+- I haven't touched css (have been using scss) in a while, therefore it can be a bit rusty. 
+- Wanted to use scss, but would need to eject entire project and update webpack. (Time consuming)
+- I assumed that when a user clicks, they can no longer vote if the poll is 'Single Type'
+- After user clicks in a 'Single' type poll, they cannot vote again. (Did not include css to indicate to user that they cannot click again).
+
+- To run the project, run `npm install` to load all the dependencies, and then run `npm start` to run project.
+
+
 ## Available Scripts
 
 In the project directory, you can run:
